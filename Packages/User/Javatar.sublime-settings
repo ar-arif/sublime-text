@@ -1,0 +1,51 @@
+{
+	"message_id": 20,
+	"project_data":
+	{
+		/*"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/mnt/zero/java-course-apne-college",
+				}
+			],
+		},*/
+		/*"4": null,*/
+		/*"5": null,*/
+		/*"6": null,*/
+		/*"7": null,*/
+		/*"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/mnt/zero/java-course-apne-college",
+				}
+			],
+		},*/
+		/*"3": null,*/
+		/*"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/mnt/zero/java-course-apne-college",
+				}
+			],
+		},*/
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/mnt/zero/java-course-apne-college",
+				}
+			],
+		},
+	},
+	"jdk_version":
+	{
+		"use": "",
+	},
+}

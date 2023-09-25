@@ -1,0 +1,2657 @@
+{
+	"file_history":
+	[
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/quiz2List.cpp",
+		"/home/zer0/.config/openbox/polybar/easy/config.ini",
+		"/home/zer0/.config/openbox/polybar/adaptive/config.ini",
+		"/home/zer0/.config/openbox/polybar/easy/modules.ini",
+		"/home/zer0/.config/openbox/polybar/adaptive/modules.ini",
+		"/home/zer0/.config/openbox/polybar/default/modules.ini",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/reverseList.cpp",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/LinkedLists_Assignment.cpp",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/prac.cpp",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/reverseListV2.cpp",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/LinkedList.cpp",
+		"/mnt/MEDIA/Downloads/FDM/LinkedList.cpp",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/Web_Design/task-2.html",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/Web_Design/task-2.css",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/linked_list.cpp",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/bn.cpp",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/binary_search_iterative.cpp",
+		"/home/zer0/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/binary_search_recursive.cpp",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/Lab/binary_search_iterative.cpp",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/Lab/binary_search_recursive.cpp",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Introduction to Web Design/table.html",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/Lab/binary_search.cpp",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/binary_search.cpp",
+		"/mnt/zero/TCA-app-script/Todo.txt",
+		"/home/zer0/.config/openbox/polybar/default/config.ini",
+		"/home/zer0/.config/bspwm/polybar/config",
+		"/mnt/zero/TCA-app-script/Prereg(On_Edit).js",
+		"/mnt/zero/TCA-app-script/bulk_paymentRecipt.js",
+		"/mnt/other/DIU/Structured Programming/Lab",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/bn.cpp",
+		"/home/zer0/.config/openbox/polybar/default/launch.sh",
+		"/mnt/zero/TCA-app-script/Code.js",
+		"/mnt/zero/TCA-app-script/Certificate_Mail.js",
+		"/home/zer0/.config/polybar/config",
+		"/home/zer0/.config/alacritty/alacritty.yml",
+		"/home/zer0/.config/alacritty/fonts.yml",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/insertion.cpp",
+		"/home/zer0/.config/sublime-text/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/home/zer0/.config/sublime-text/Packages/User/Monokai.sublime-color-scheme",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Object Oriented Concepts/OOP_Lab/task.cpp",
+		"/mnt/zero/TCA-app-script/Payment_Recipt_Mail_Sent.js",
+		"/mnt/zero/TCA-app-script/Prereg_Data_Entry.js",
+		"/mnt/zero/TCA-app-script/Payment_Recipt.js",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Object Oriented Concepts/OOP_Lab/task_tonmoy.cpp",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Object Oriented Concepts/OOP_Lab/intro.cpp",
+		"/home/zer0/notification_of_element_change.js",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Introduction to Web Design/iframe.html",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Introduction to Web Design/task-class.htm",
+		"/mnt/zero/TCA-app-script/TODO.txt",
+		"/mnt/zero/TCA-app-script/TODO.text",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/Arif_1010.c",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/Arif_1010.cpp",
+		"/home/zer0/test/docker-wireguard/docker-compose.yml",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/linked_list.cpp",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/linked_list.c",
+		"/mnt/MEDIA/Downloads/docker-media-center/dmc/compose/docker-compose.yml",
+		"/mnt/zero/SAM-Python-Assignment1/log.txt",
+		"/mnt/zero/SAM-Python-Assignment1/Assignment1_template_Final (2).py",
+		"/mnt/zero/SAM-Python-Assignment1/2.py",
+		"/home/zer0/Downloads/Assignment1_template_Final (2).py",
+		"/mnt/zero/SAM-Python-Assignment1/1.py",
+		"/home/zer0/Downloads/salary_dataset.txt",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p14.java",
+		"/home/zer0/.config/openbox/polybar/default/config2.ini",
+		"/home/zer0/.config/openbox/polybar/default/launch2.sh",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Introduction to Web Design/task-1.html",
+		"/mnt/zero/DS Algo first lab/1.c",
+		"/mnt/zero/DS Algo first lab/2.c",
+		"/mnt/MEDIA/Downloads/docker-media-center/_base/compose/docker-compose.yml",
+		"/mnt/zero/spring2023result/main.js",
+		"/mnt/zero/spring2023result/index.html",
+		"/mnt/zero/spring2023result/data.json",
+		"/home/zer0/diu_portal_marks_web_scrape.js",
+		"/home/zer0/Downloads/convertcsv.htm",
+		"/home/zer0/spring2023result.json",
+		"/home/zer0/.config/mpv/input.conf",
+		"/home/zer0/.config/mpv/mpv.conf",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p14.subl",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p13.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p12.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p11.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p10.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/p9.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/p8.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/p7.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/p6.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/p4.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/p3.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/p2.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/p1.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/p5.java",
+		"/mnt/zero/java-course-apne-college/run.sh",
+		"/mnt/zero/java-course-apne-college/Best_Patterns/P1.java",
+		"/mnt/zero/java-course-apne-college/Main.java",
+		"/mnt/zero/java-course-apne-college/Best_Patterns_5.java",
+		"/mnt/zero/java-course-apne-college/rand.js",
+		"/home/zer0/.config/sublime-text/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/User/JsPrettier.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/Formatter/Formatter.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/User/Formatter.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/Formatter/Example.sublime-keymap",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/csscomb_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/jsonmax_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/php_cs_fixer_rc.php",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/stylelint_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/terser_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/eslint_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/rubocop_rc.yml",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/htmltidy_xml_rc.cfg",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/htmltidy_html_rc.cfg",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/beautysh_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/htmlminifier_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/clang_format_llvm_rc.yaml",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/black_rc.toml",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/prettier_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/prettydiff_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/cleancss_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/perltidy_rc.cfg",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/yapf_rc.yapf",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/jsbeautify_rc.json",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/uncrustify_sun_java_rc.cfg",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/uncrustify_objc_rc.cfg",
+		"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/uncrustify_rc.cfg",
+		"/home/zer0/.config/sublime-text/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+		"/home/zer0/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/User/LSP.sublime-settings"
+	],
+	"folder_history":
+	[
+		"/mnt/zero/TCA-app-script",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA",
+		"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/Web_Design",
+		"/mnt/MEDIA/DIU/LAB_DIU",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Introduction to Web Design",
+		"/mnt/MEDIA/vms/Docker/jellyfin-media-server",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Object Oriented Concepts",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Object Oriented Concepts/OOP_Lab",
+		"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab",
+		"/mnt/zero/SAM-Python-Assignment1",
+		"/mnt/zero/DS Algo first lab",
+		"/mnt/zero/spring2023result",
+		"/mnt/zero/java-course-apne-college",
+		"/mnt/zero/youtube-embed-viewer",
+		"/mnt/zero/C Programming",
+		"/home/zer0/lab",
+		"/home/zer0/Downloads/Assignment 3",
+		"/mnt/MEDIA/test/FB_Automation",
+		"/home/zer0/Downloads/SamiulHoque_A1",
+		"/mnt/zero/project_openai_codex",
+		"/home/zer0/Keylogger",
+		"/mnt/zero/Sharif_Automation",
+		"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop",
+		"/mnt/zero/National Hackathon For Cyber Security - FinTech Industry/personal-finance-tracker",
+		"/mnt/other/DIU/Computer Fundamentals/C Programing/Problem Solving/Conditional Statement",
+		"/home/zer0",
+		"/mnt/other/DIU/Computer Fundamentals",
+		"/home/zer0/.config/openbox/scripts",
+		"/home/zer0/df-youtube-react",
+		"/mnt/zero/react-chat",
+		"/mnt/other/DIU/Computer Fundamentals/C Programing/Problem Solving/21 Practice Problem Solving",
+		"/run/media/zer0/zero/CSE-Fundamentals-With-Phitron",
+		"/run/media/zer0/other/DIU/Computer Fundamentals",
+		"/run/media/zer0/zero/LCO-Next.JS",
+		"/run/media/zer0/other/DIU/Computer Fundamentals/C Programing/Problem Solving/21 Practice Problem Solving",
+		"/run/media/zer0/zero/ITM 6 Batch/CF/C",
+		"/etc/X11/xorg.conf.d",
+		"/home/zer0/Desktop/card-validity-checker",
+		"/home/zer0/Desktop/df-youtube-react",
+		"/home/zer0/Desktop/auto code type",
+		"/home/zer0/Desktop/ThreeJS_Sample_Project",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/apps-script-use-with-python",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/df-youtube-react",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/df-youtube-react-pwa",
+		"/home/zer0/Downloads/probJS",
+		"/home/zer0/Desktop/vite-pwa",
+		"/home/zer0/Desktop/vite-pwa-boilerplate",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/react-vite-pwa",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/test",
+		"/home/zer0/Desktop/react-router",
+		"/home/zer0/Desktop/DF-YouTube",
+		"/home/zer0/Desktop/react-chat",
+		"/home/zer0/Desktop/realtime-chat-app",
+		"/home/zer0/Desktop/chrome-extensions-samples",
+		"/home/zer0/Desktop/dark-extension",
+		"/run/media/zer0/Arif/Running WorkFlow/samftp-anime-webapp",
+		"/run/media/zer0/Arif/Running WorkFlow/JavaScript/ReactJS/react-entertainment-hub/v2",
+		"/run/media/zer0/Arif/Running WorkFlow/JavaScript/ReactJS/react-entertainment-hub/v2/src/assets",
+		"/home/zer0/Desktop/samftp-anime-webapp",
+		"/home/zer0/Desktop/vite-react-tailwind",
+		"/home/zer0/Desktop/SublimeTextTrans-1.4.0",
+		"/home/zer0/Desktop/pup",
+		"/home/zer0/Desktop/scrap-to-sheet",
+		"/home/zer0/Desktop/vite-js",
+		"/home/zer0/Desktop/flutter_app",
+		"/home/zer0/Desktop/workFlow"
+	],
+	"last_version": 4143,
+	"last_window_id": 257,
+	"log_indexing": false,
+	"next_update_check": 1695628350,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			10.0,
+			107.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"re",
+						"reverse_list"
+					],
+					[
+						"de",
+						"delete_element"
+					],
+					[
+						"font-t",
+						"font-style"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"strin",
+						"string"
+					],
+					[
+						"d",
+						"department"
+					],
+					[
+						"pow",
+						"power3"
+					],
+					[
+						"cou",
+						"cout"
+					],
+					[
+						"getb",
+						"getBytes"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"ar",
+						"arif_car"
+					],
+					[
+						"pa",
+						"payment_Verify"
+					],
+					[
+						"br",
+						"Browser"
+					],
+					[
+						"get",
+						"getName"
+					],
+					[
+						"car",
+						"Car"
+					],
+					[
+						"name",
+						"name2"
+					],
+					[
+						"id",
+						"id2"
+					],
+					[
+						"con",
+						"conio.h>"
+					],
+					[
+						"ios",
+						"iostream>"
+					],
+					[
+						"ge",
+						"getName"
+					],
+					[
+						"Nul",
+						"NULL"
+					],
+					[
+						"ma",
+						"malloc"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"border",
+						"border-inline"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"st",
+						"sticky"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"wh",
+						"white"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"bt",
+						"btn_result"
+					],
+					[
+						"co",
+						"count"
+					],
+					[
+						"e",
+						"else"
+					],
+					[
+						"pri",
+						"print"
+					],
+					[
+						"pr",
+						"print"
+					],
+					[
+						"tr",
+						"true"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"fo",
+						"for\tfor"
+					],
+					[
+						"n",
+						"name"
+					],
+					[
+						"Ma",
+						"main"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"pla",
+						"Player"
+					],
+					[
+						"rando",
+						"random_num"
+					],
+					[
+						"ran",
+						"random"
+					],
+					[
+						"sl",
+						"sleep"
+					],
+					[
+						"na",
+						"namespace"
+					],
+					[
+						"iso",
+						"iostream>"
+					],
+					[
+						"ra",
+						"range"
+					],
+					[
+						"l",
+						"lvu"
+					],
+					[
+						"inp",
+						"input"
+					],
+					[
+						"nu",
+						"nums"
+					],
+					[
+						"s",
+						"sudentID"
+					],
+					[
+						"prin",
+						"printf\tprintf …"
+					],
+					[
+						"se",
+						"server_link"
+					],
+					[
+						"P",
+						"png"
+					],
+					[
+						"pya",
+						"pyautogui"
+					],
+					[
+						"time",
+						"time_t"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"stl",
+						"stdlib.h>"
+					],
+					[
+						"stdi",
+						"stdio.h"
+					],
+					[
+						"in",
+						"inc\t#include <…>"
+					],
+					[
+						"el",
+						"else if"
+					],
+					[
+						"els",
+						"else if"
+					],
+					[
+						"oper",
+						"Operator"
+					],
+					[
+						"cons",
+						"const"
+					],
+					[
+						"cosn",
+						"const"
+					],
+					[
+						"by",
+						"getSheetByName"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"byna",
+						"getSheetByName"
+					],
+					[
+						"op",
+						"openById"
+					],
+					[
+						"nc",
+						"ncurses.h>"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"inclu",
+						"include"
+					],
+					[
+						"num",
+						"num2"
+					],
+					[
+						"max",
+						"aria-valuemax?"
+					],
+					[
+						"null",
+						"NULL"
+					],
+					[
+						"Null",
+						"NULL"
+					],
+					[
+						"a",
+						"arr2"
+					],
+					[
+						"inde",
+						"index_match"
+					],
+					[
+						"sea",
+						"search_val"
+					],
+					[
+						"ord",
+						"order-2"
+					],
+					[
+						"c",
+						"className"
+					],
+					[
+						"or",
+						"order-10 "
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"fl",
+						"inline-flex"
+					],
+					[
+						"is",
+						"is_dataFound"
+					],
+					[
+						"f",
+						"from"
+					],
+					[
+						"vi",
+						"video"
+					],
+					[
+						"t",
+						"type"
+					],
+					[
+						"fe",
+						"fetch"
+					],
+					[
+						"idl",
+						"setIdList"
+					],
+					[
+						"cl",
+						"className"
+					],
+					[
+						"set",
+						"setIdList"
+					],
+					[
+						"lo",
+						"localList"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"ad",
+						"addToFavorit"
+					],
+					[
+						"src",
+						"source"
+					],
+					[
+						"anim",
+						"anime_list"
+					],
+					[
+						"ele",
+						"elem"
+					],
+					[
+						"ea",
+						"each"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"imp",
+						"import"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c++_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/terminus_javaC_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_javaC_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/terminus_python_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c++_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/terminus_python_build.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"color sc",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ter",
+						"Terminus: List Shells"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"disa",
+						"LSP: Disable Language Server in Project"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"term",
+						"Terminus: List Shells"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"js",
+						"Preferences: JsPrettier Settings - Side-by-Side"
+					],
+					[
+						"javatar: ",
+						"Javatar: Builds..."
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"JsPrettier Format Code",
+						"JsPrettier: Format Code"
+					],
+					[
+						"",
+						"Bookmarks: Select Next"
+					],
+					[
+						"jspre",
+						"Preferences: JsPrettier Settings - Side-by-Side"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"formatter js",
+						"Formatter: Beautify With JS Beautifier"
+					],
+					[
+						"jsb",
+						"Formatter: Beautify With JS Beautifier"
+					],
+					[
+						"clang for",
+						"Formatter: Beautify With ClangFormat"
+					],
+					[
+						"formatter un",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"Formatter un",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"Formatter",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"Formatter bea",
+						"Formatter: Beautify With Prettier"
+					],
+					[
+						"Formatterun",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"formatter",
+						"Formatter: Open Config Files"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"coolforma",
+						"CoolFormat: Formatter Settings"
+					],
+					[
+						"diab",
+						"Package Control: Disable Package"
+					],
+					[
+						"lsp disable",
+						"LSP: Disable Language Server Globally"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"disble",
+						"Package Control: Disable Package"
+					],
+					[
+						"enable",
+						"Color Highlight: Enable Color Highlighting"
+					],
+					[
+						"lsp",
+						"Preferences: LSP Settings"
+					],
+					[
+						"jdtls",
+						"Preferences: LSP-jdtls Settings"
+					],
+					[
+						"remop",
+						"Package Control: Remove Package"
+					],
+					[
+						"buildview",
+						"Disable/Enable buildview for this window"
+					],
+					[
+						"Package Control: Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"vp",
+						"View Package File"
+					],
+					[
+						"manage",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"word",
+						"LaTeXWordCount: Word Count"
+					],
+					[
+						"conf",
+						"Set Syntax: Git Config"
+					],
+					[
+						"Splunk Conf F",
+						"Set Syntax: Splunk Conf file"
+					],
+					[
+						"colo",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color",
+						"Color Highlight: Color Highlight Current File"
+					],
+					[
+						"remp",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"vpf",
+						"View Package File"
+					],
+					[
+						"cpf",
+						"Package Control: Create Package File"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"teminu",
+						"Preferences: Terminus Key Bindings"
+					],
+					[
+						"vps",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"lsp pre",
+						"Preferences: LSP Settings"
+					],
+					[
+						"for",
+						"JsPrettier: Format Code"
+					],
+					[
+						"te",
+						"Terminus: Close All"
+					],
+					[
+						"t",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings"
+					],
+					[
+						"discord",
+						"Preferences: Discord Rich Presence Settings"
+					],
+					[
+						"dis",
+						"Package Control: Discover Packages"
+					],
+					[
+						"clos",
+						"Terminus: Close All"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"discor",
+						"Package Control: Discover Packages"
+					],
+					[
+						"jsp",
+						"Preferences: JsPrettier Settings - Default"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 380.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/zer0/.config/openbox/polybar/easy/config.ini",
+				"/home/zer0/.config/openbox/polybar/adaptive/config.ini",
+				"/home/zer0/.config/openbox/polybar/easy/modules.ini",
+				"/home/zer0/.config/openbox/polybar/adaptive/modules.ini",
+				"/home/zer0/.config/openbox/polybar/default/modules.ini",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/reverseList.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/LinkedLists_Assignment.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/prac.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/reverseListV2.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/LinkedList.cpp",
+				"/mnt/MEDIA/Downloads/FDM/LinkedList.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/Web_Design/task-2.html",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/Web_Design/task-2.css",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/linked_list.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/bn.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/binary_search_iterative.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/binary_search_recursive.cpp",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/Lab/binary_search_iterative.cpp",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/binary_search.cpp",
+				"/mnt/other/DIU/Structured Programming/Lab",
+				"/home/zer0/.config/openbox/polybar/default/launch.sh",
+				"/mnt/zero/TCA-app-script/Code.js",
+				"/mnt/zero/TCA-app-script/Certificate_Mail.js",
+				"/home/zer0/.config/bspwm/polybar/config",
+				"/home/zer0/.config/polybar/config",
+				"/home/zer0/.config/alacritty/alacritty.yml",
+				"/home/zer0/.config/alacritty/fonts.yml",
+				"/home/zer0/.config/sublime-text/Packages/User/Monokai.sublime-color-scheme",
+				"/mnt/zero/TCA-app-script/Prereg_Data_Entry.js",
+				"/mnt/zero/TCA-app-script/Prereg(On_Edit).js",
+				"/mnt/zero/TCA-app-script/TODO.txt",
+				"/mnt/zero/TCA-app-script/TODO.text",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/Arif_1010.c",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/Arif_1010.cpp",
+				"/home/zer0/test/docker-wireguard/docker-compose.yml",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/linked_list.cpp",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/linked_list.c",
+				"/home/zer0/.config/openbox/polybar/default/config.ini",
+				"/home/zer0/Downloads/salary_dataset.txt",
+				"/home/zer0/Downloads/Assignment1_template_Final (2).py",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p14.java",
+				"/home/zer0/.config/openbox/polybar/default/config2.ini",
+				"/home/zer0/.config/openbox/polybar/default/launch2.sh",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Introduction to Web Design/task-1.html",
+				"/mnt/MEDIA/Downloads/docker-media-center/_base/compose/docker-compose.yml",
+				"/mnt/zero/spring2023result/index.html",
+				"/mnt/zero/spring2023result/data.json",
+				"/home/zer0/diu_portal_marks_web_scrape.js",
+				"/home/zer0/Downloads/convertcsv.htm",
+				"/home/zer0/spring2023result.json",
+				"/home/zer0/.config/mpv/input.conf",
+				"/home/zer0/.config/mpv/mpv.conf",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p14.subl",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p13.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p12.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p11.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p10.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p9.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p8.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p7.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p6.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p4.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p3.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p2.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p1.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p5.java",
+				"/mnt/zero/java-course-apne-college/run.sh",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/P1.java",
+				"/mnt/zero/java-course-apne-college/Main.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns_5.java",
+				"/mnt/zero/java-course-apne-college/rand.js",
+				"/home/zer0/.config/sublime-text/Packages/Formatter/Example.sublime-keymap",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/csscomb_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/jsonmax_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/php_cs_fixer_rc.php",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/stylelint_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/terser_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/eslint_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/rubocop_rc.yml",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/htmltidy_xml_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/htmltidy_html_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/beautysh_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/htmlminifier_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/clang_format_llvm_rc.yaml",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/black_rc.toml",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/prettier_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/prettydiff_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/cleancss_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/perltidy_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/yapf_rc.yapf",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/jsbeautify_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/uncrustify_sun_java_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/uncrustify_objc_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/uncrustify_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/home/zer0/.config/sublime-text/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+				"/home/zer0/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/mnt/zero/youtube-embed-viewer/background.js",
+				"/mnt/zero/java-course-apne-college/HelloWorld.java",
+				"/mnt/zero/java-course-apne-college/hw.c",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_javaC_build.sublime-build",
+				"/mnt/zero/java-course-apne-college/hello_world.java",
+				"/home/zer0/.config/sublime-text/Packages/Java/JavaC.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_c_build.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_python_build.sublime-build",
+				"/mnt/zero/java-course-apne-college/HelloWorld.class",
+				"/mnt/zero/youtube-embed-viewer/popup.js",
+				"/mnt/zero/youtube-embed-viewer/manifest.json",
+				"/mnt/zero/youtube-embed-viewer/popup.html",
+				"/mnt/zero/C Programming/Final/grades.txt",
+				"/mnt/zero/C Programming/Final/numbers.txt",
+				"/home/zer0/.config/sublime-text/Packages/User/Terminus.sublime-settings",
+				"/home/zer0/.ssh/config",
+				"/home/zer0/.zshrc",
+				"/home/zer0/.tmux.conf",
+				"/home/zer0/.tmux/plugins/tmux-power/tmux-power.tmux",
+				"/home/zer0/.tmux.conf.local",
+				"/home/zer0/lab/1.c",
+				"/home/zer0/lab/2.c",
+				"/home/zer0/lab/3.c",
+				"/home/zer0/lab/4.c",
+				"/home/zer0/.ssh/authorized_keys",
+				"/home/zer0/.local/bin/diskClear_ramClear",
+				"/mnt/zero/C Programming/accounts.txt",
+				"/mnt/zero/C Programming/diuBank.c",
+				"/mnt/zero/TCA-app-script/accounts.txt",
+				"/home/zer0/Downloads/arif.c",
+				"/mnt/zero/C Programming/accounts.dat"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 139.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 84.0
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.Terminus":
+			{
+				"height": 199.0
+			},
+			"output.Terminus Build Results":
+			{
+				"height": 479.0
+			},
+			"output.diagnostics":
+			{
+				"height": 138.0
+			},
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.language servers":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"payme",
+						"Payment_Recipt.js"
+					],
+					[
+						"paymentReciptMailSent",
+						"Payment_Recipt_Mail_Sent.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 251.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"re",
+						"reverse_list"
+					],
+					[
+						"de",
+						"delete_element"
+					],
+					[
+						"font-t",
+						"font-style"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"strin",
+						"string"
+					],
+					[
+						"d",
+						"department"
+					],
+					[
+						"pow",
+						"power3"
+					],
+					[
+						"cou",
+						"cout"
+					],
+					[
+						"getb",
+						"getBytes"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"ar",
+						"arif_car"
+					],
+					[
+						"pa",
+						"payment_Verify"
+					],
+					[
+						"br",
+						"Browser"
+					],
+					[
+						"get",
+						"getName"
+					],
+					[
+						"car",
+						"Car"
+					],
+					[
+						"name",
+						"name2"
+					],
+					[
+						"id",
+						"id2"
+					],
+					[
+						"con",
+						"conio.h>"
+					],
+					[
+						"ios",
+						"iostream>"
+					],
+					[
+						"ge",
+						"getName"
+					],
+					[
+						"Nul",
+						"NULL"
+					],
+					[
+						"ma",
+						"malloc"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"border",
+						"border-inline"
+					],
+					[
+						"di",
+						"div"
+					],
+					[
+						"st",
+						"sticky"
+					],
+					[
+						"fon",
+						"font-family"
+					],
+					[
+						"wh",
+						"white"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"bt",
+						"btn_result"
+					],
+					[
+						"co",
+						"count"
+					],
+					[
+						"e",
+						"else"
+					],
+					[
+						"pri",
+						"print"
+					],
+					[
+						"pr",
+						"print"
+					],
+					[
+						"tr",
+						"true"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"fo",
+						"for\tfor"
+					],
+					[
+						"n",
+						"name"
+					],
+					[
+						"Ma",
+						"main"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"pla",
+						"Player"
+					],
+					[
+						"rando",
+						"random_num"
+					],
+					[
+						"ran",
+						"random"
+					],
+					[
+						"sl",
+						"sleep"
+					],
+					[
+						"na",
+						"namespace"
+					],
+					[
+						"iso",
+						"iostream>"
+					],
+					[
+						"ra",
+						"range"
+					],
+					[
+						"l",
+						"lvu"
+					],
+					[
+						"inp",
+						"input"
+					],
+					[
+						"nu",
+						"nums"
+					],
+					[
+						"s",
+						"sudentID"
+					],
+					[
+						"prin",
+						"printf\tprintf …"
+					],
+					[
+						"se",
+						"server_link"
+					],
+					[
+						"P",
+						"png"
+					],
+					[
+						"pya",
+						"pyautogui"
+					],
+					[
+						"time",
+						"time_t"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"stl",
+						"stdlib.h>"
+					],
+					[
+						"stdi",
+						"stdio.h"
+					],
+					[
+						"in",
+						"inc\t#include <…>"
+					],
+					[
+						"el",
+						"else if"
+					],
+					[
+						"els",
+						"else if"
+					],
+					[
+						"oper",
+						"Operator"
+					],
+					[
+						"cons",
+						"const"
+					],
+					[
+						"cosn",
+						"const"
+					],
+					[
+						"by",
+						"getSheetByName"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"byna",
+						"getSheetByName"
+					],
+					[
+						"op",
+						"openById"
+					],
+					[
+						"nc",
+						"ncurses.h>"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"inclu",
+						"include"
+					],
+					[
+						"num",
+						"num2"
+					],
+					[
+						"max",
+						"aria-valuemax?"
+					],
+					[
+						"null",
+						"NULL"
+					],
+					[
+						"Null",
+						"NULL"
+					],
+					[
+						"a",
+						"arr2"
+					],
+					[
+						"inde",
+						"index_match"
+					],
+					[
+						"sea",
+						"search_val"
+					],
+					[
+						"ord",
+						"order-2"
+					],
+					[
+						"c",
+						"className"
+					],
+					[
+						"or",
+						"order-10 "
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"fl",
+						"inline-flex"
+					],
+					[
+						"is",
+						"is_dataFound"
+					],
+					[
+						"f",
+						"from"
+					],
+					[
+						"vi",
+						"video"
+					],
+					[
+						"t",
+						"type"
+					],
+					[
+						"fe",
+						"fetch"
+					],
+					[
+						"idl",
+						"setIdList"
+					],
+					[
+						"cl",
+						"className"
+					],
+					[
+						"set",
+						"setIdList"
+					],
+					[
+						"lo",
+						"localList"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"ad",
+						"addToFavorit"
+					],
+					[
+						"src",
+						"source"
+					],
+					[
+						"anim",
+						"anime_list"
+					],
+					[
+						"ele",
+						"elem"
+					],
+					[
+						"ea",
+						"each"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"imp",
+						"import"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c++_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/terminus_javaC_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_javaC_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/terminus_python_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c++_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/terminus_python_build.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"color sc",
+						"UI: Select Color Scheme"
+					],
+					[
+						"ter",
+						"Terminus: List Shells"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"disa",
+						"LSP: Disable Language Server in Project"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"term",
+						"Terminus: List Shells"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"js",
+						"Preferences: JsPrettier Settings - Side-by-Side"
+					],
+					[
+						"javatar: ",
+						"Javatar: Builds..."
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"JsPrettier Format Code",
+						"JsPrettier: Format Code"
+					],
+					[
+						"",
+						"Bookmarks: Select Next"
+					],
+					[
+						"jspre",
+						"Preferences: JsPrettier Settings - Side-by-Side"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"formatter js",
+						"Formatter: Beautify With JS Beautifier"
+					],
+					[
+						"jsb",
+						"Formatter: Beautify With JS Beautifier"
+					],
+					[
+						"clang for",
+						"Formatter: Beautify With ClangFormat"
+					],
+					[
+						"formatter un",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"Formatter un",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"Formatter",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"Formatter bea",
+						"Formatter: Beautify With Prettier"
+					],
+					[
+						"Formatterun",
+						"Formatter: Beautify With Uncrustify"
+					],
+					[
+						"formatter",
+						"Formatter: Open Config Files"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"coolforma",
+						"CoolFormat: Formatter Settings"
+					],
+					[
+						"diab",
+						"Package Control: Disable Package"
+					],
+					[
+						"lsp disable",
+						"LSP: Disable Language Server Globally"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"disble",
+						"Package Control: Disable Package"
+					],
+					[
+						"enable",
+						"Color Highlight: Enable Color Highlighting"
+					],
+					[
+						"lsp",
+						"Preferences: LSP Settings"
+					],
+					[
+						"jdtls",
+						"Preferences: LSP-jdtls Settings"
+					],
+					[
+						"remop",
+						"Package Control: Remove Package"
+					],
+					[
+						"buildview",
+						"Disable/Enable buildview for this window"
+					],
+					[
+						"Package Control: Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"vp",
+						"View Package File"
+					],
+					[
+						"manage",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"word",
+						"LaTeXWordCount: Word Count"
+					],
+					[
+						"conf",
+						"Set Syntax: Git Config"
+					],
+					[
+						"Splunk Conf F",
+						"Set Syntax: Splunk Conf file"
+					],
+					[
+						"colo",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color",
+						"Color Highlight: Color Highlight Current File"
+					],
+					[
+						"remp",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"vpf",
+						"View Package File"
+					],
+					[
+						"cpf",
+						"Package Control: Create Package File"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"teminu",
+						"Preferences: Terminus Key Bindings"
+					],
+					[
+						"vps",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"lsp pre",
+						"Preferences: LSP Settings"
+					],
+					[
+						"for",
+						"JsPrettier: Format Code"
+					],
+					[
+						"te",
+						"Terminus: Close All"
+					],
+					[
+						"t",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings"
+					],
+					[
+						"discord",
+						"Preferences: Discord Rich Presence Settings"
+					],
+					[
+						"dis",
+						"Package Control: Discover Packages"
+					],
+					[
+						"clos",
+						"Terminus: Close All"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"discor",
+						"Package Control: Discover Packages"
+					],
+					[
+						"jsp",
+						"Preferences: JsPrettier Settings - Default"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 380.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/mnt/zero/TCA-app-script"
+			],
+			"file_history":
+			[
+				"/home/zer0/.config/openbox/polybar/easy/config.ini",
+				"/home/zer0/.config/openbox/polybar/adaptive/config.ini",
+				"/home/zer0/.config/openbox/polybar/easy/modules.ini",
+				"/home/zer0/.config/openbox/polybar/adaptive/modules.ini",
+				"/home/zer0/.config/openbox/polybar/default/modules.ini",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/reverseList.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/LinkedLists_Assignment.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/prac.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/reverseListV2.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/LinkedList.cpp",
+				"/mnt/MEDIA/Downloads/FDM/LinkedList.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/Web_Design/task-2.html",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/Web_Design/task-2.css",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/linked_list.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/bn.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/binary_search_iterative.cpp",
+				"/mnt/MEDIA/DIU/LAB_DIU/3rd-semester/DSA/binary_search_recursive.cpp",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/Lab/binary_search_iterative.cpp",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/binary_search.cpp",
+				"/mnt/other/DIU/Structured Programming/Lab",
+				"/home/zer0/.config/openbox/polybar/default/launch.sh",
+				"/mnt/zero/TCA-app-script/Code.js",
+				"/mnt/zero/TCA-app-script/Certificate_Mail.js",
+				"/home/zer0/.config/bspwm/polybar/config",
+				"/home/zer0/.config/polybar/config",
+				"/home/zer0/.config/alacritty/alacritty.yml",
+				"/home/zer0/.config/alacritty/fonts.yml",
+				"/home/zer0/.config/sublime-text/Packages/User/Monokai.sublime-color-scheme",
+				"/mnt/zero/TCA-app-script/Prereg_Data_Entry.js",
+				"/mnt/zero/TCA-app-script/Prereg(On_Edit).js",
+				"/mnt/zero/TCA-app-script/TODO.txt",
+				"/mnt/zero/TCA-app-script/TODO.text",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/Arif_1010.c",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/Arif_1010.cpp",
+				"/home/zer0/test/docker-wireguard/docker-compose.yml",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/linked_list.cpp",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Data Structure and Algorithm/DS Algo first lab/linked_list.c",
+				"/home/zer0/.config/openbox/polybar/default/config.ini",
+				"/home/zer0/Downloads/salary_dataset.txt",
+				"/home/zer0/Downloads/Assignment1_template_Final (2).py",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p14.java",
+				"/home/zer0/.config/openbox/polybar/default/config2.ini",
+				"/home/zer0/.config/openbox/polybar/default/launch2.sh",
+				"/mnt/MEDIA/DIU/3rd Semester - Fall 2023/Introduction to Web Design/task-1.html",
+				"/mnt/MEDIA/Downloads/docker-media-center/_base/compose/docker-compose.yml",
+				"/mnt/zero/spring2023result/index.html",
+				"/mnt/zero/spring2023result/data.json",
+				"/home/zer0/diu_portal_marks_web_scrape.js",
+				"/home/zer0/Downloads/convertcsv.htm",
+				"/home/zer0/spring2023result.json",
+				"/home/zer0/.config/mpv/input.conf",
+				"/home/zer0/.config/mpv/mpv.conf",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p14.subl",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p13.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p12.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p11.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/Advanced_Patterns/p10.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p9.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p8.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p7.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p6.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p4.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p3.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p2.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p1.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/p5.java",
+				"/mnt/zero/java-course-apne-college/run.sh",
+				"/mnt/zero/java-course-apne-college/Best_Patterns/P1.java",
+				"/mnt/zero/java-course-apne-college/Main.java",
+				"/mnt/zero/java-course-apne-college/Best_Patterns_5.java",
+				"/mnt/zero/java-course-apne-college/rand.js",
+				"/home/zer0/.config/sublime-text/Packages/Formatter/Example.sublime-keymap",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/csscomb_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/jsonmax_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/php_cs_fixer_rc.php",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/stylelint_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/terser_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/eslint_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/rubocop_rc.yml",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/htmltidy_xml_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/htmltidy_html_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/beautysh_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/htmlminifier_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/clang_format_llvm_rc.yaml",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/black_rc.toml",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/prettier_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/prettydiff_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/cleancss_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/perltidy_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/yapf_rc.yapf",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/jsbeautify_rc.json",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/uncrustify_sun_java_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/uncrustify_objc_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/User/formatter.assets/config/uncrustify_rc.cfg",
+				"/home/zer0/.config/sublime-text/Packages/JsPrettier/JsPrettier.sublime-settings",
+				"/home/zer0/.config/sublime-text/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+				"/home/zer0/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/mnt/zero/youtube-embed-viewer/background.js",
+				"/mnt/zero/java-course-apne-college/HelloWorld.java",
+				"/mnt/zero/java-course-apne-college/hw.c",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_javaC_build.sublime-build",
+				"/mnt/zero/java-course-apne-college/hello_world.java",
+				"/home/zer0/.config/sublime-text/Packages/Java/JavaC.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_c_build.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_python_build.sublime-build",
+				"/mnt/zero/java-course-apne-college/HelloWorld.class",
+				"/mnt/zero/youtube-embed-viewer/popup.js",
+				"/mnt/zero/youtube-embed-viewer/manifest.json",
+				"/mnt/zero/youtube-embed-viewer/popup.html",
+				"/mnt/zero/C Programming/Final/grades.txt",
+				"/mnt/zero/C Programming/Final/numbers.txt",
+				"/home/zer0/.config/sublime-text/Packages/User/Terminus.sublime-settings",
+				"/home/zer0/.ssh/config",
+				"/home/zer0/.zshrc",
+				"/home/zer0/.tmux.conf",
+				"/home/zer0/.tmux/plugins/tmux-power/tmux-power.tmux",
+				"/home/zer0/.tmux.conf.local",
+				"/home/zer0/lab/1.c",
+				"/home/zer0/lab/2.c",
+				"/home/zer0/lab/3.c",
+				"/home/zer0/lab/4.c",
+				"/home/zer0/.ssh/authorized_keys",
+				"/home/zer0/.local/bin/diskClear_ramClear",
+				"/mnt/zero/C Programming/accounts.txt",
+				"/mnt/zero/C Programming/diuBank.c",
+				"/mnt/zero/TCA-app-script/accounts.txt",
+				"/home/zer0/Downloads/arif.c",
+				"/mnt/zero/C Programming/accounts.dat"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 139.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/mnt/zero/TCA-app-script"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 84.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.Terminus":
+			{
+				"height": 199.0
+			},
+			"output.Terminus Build Results":
+			{
+				"height": 479.0
+			},
+			"output.diagnostics":
+			{
+				"height": 138.0
+			},
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.language servers":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,10,48,1358,726,1368,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"payme",
+						"Payment_Recipt.js"
+					],
+					[
+						"paymentReciptMailSent",
+						"Payment_Recipt_Mail_Sent.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 251.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 257,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,2555 @@
+{
+	"file_history":
+	[
+		"/home/zer0/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/mnt/zero/java-course-apne-college/Main.java",
+		"/home/zer0/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/User/LSP.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/User/LSP-jdtls.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/LSP-jdtls/LSP-jdtls.sublime-settings",
+		"/mnt/zero/youtube-embed-viewer/background.js",
+		"/mnt/zero/java-course-apne-college/HelloWorld.java",
+		"/mnt/zero/java-course-apne-college/hw.c",
+		"/home/zer0/.config/sublime-text/Packages/User/terminus_javaC_build.sublime-build",
+		"/home/zer0/.config/sublime-text/Packages/Terminus/Terminus.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/User/Terminus.sublime-settings",
+		"/home/zer0/.config/sublime-text/Packages/Terminus/Default.sublime-commands",
+		"/home/zer0/.config/sublime-text/Packages/User/Default.sublime-commands",
+		"/mnt/zero/java-course-apne-college/hello_world.java",
+		"/home/zer0/.config/sublime-text/Packages/Java/JavaC.sublime-build",
+		"/home/zer0/.config/sublime-text/Packages/User/terminus_c_build.sublime-build",
+		"/home/zer0/.config/sublime-text/Packages/User/terminus_python_build.sublime-build",
+		"/mnt/zero/java-course-apne-college/HelloWorld.class",
+		"/mnt/zero/youtube-embed-viewer/manifest.json",
+		"/mnt/zero/C Programming/Final/checkInt.c",
+		"/mnt/zero/youtube-embed-viewer/popup.js",
+		"/mnt/zero/youtube-embed-viewer/popup.html",
+		"/mnt/zero/C Programming/Final/grades.txt",
+		"/mnt/zero/C Programming/Final/numbers.txt",
+		"/home/zer0/.config/alacritty/alacritty.yml",
+		"/home/zer0/.config/openbox/rc.xml",
+		"/home/zer0/file",
+		"/home/zer0/.ssh/config",
+		"/home/zer0/.tmux.conf",
+		"/home/zer0/.tmux/plugins/tmux-power/tmux-power.tmux",
+		"/home/zer0/.config/zellij/config.kdl",
+		"/mnt/zero/C Programming/bank_system.c",
+		"/mnt/zero/C Programming/banks_details.txt",
+		"/home/zer0/.config/alacritty/fonts.yml",
+		"/mnt/zero/C Programming/Arif_1010.c",
+		"/mnt/zero/C Programming/diuBank.c",
+		"/home/zer0/Downloads/Arif_1010.c",
+		"/home/zer0/.zshrc",
+		"/home/zer0/.tmux.conf.local",
+		"/home/zer0/lab/1.c",
+		"/home/zer0/lab/2.c",
+		"/home/zer0/lab/3.c",
+		"/home/zer0/lab/4.c",
+		"/home/zer0/.ssh/authorized_keys",
+		"/mnt/zero/TCA-app-script/Payment_Recipt.js",
+		"/mnt/zero/TCA-app-script/Payment_Recipt_Mail_Sent.js",
+		"/mnt/zero/TCA-app-script/.clasp.json",
+		"/mnt/zero/TCA-app-script/Certificate_Mail.js",
+		"/home/zer0/.local/bin/diskClear_ramClear",
+		"/mnt/zero/C Programming/accounts.txt",
+		"/mnt/zero/TCA-app-script/accounts.txt",
+		"/home/zer0/Downloads/arif.c",
+		"/mnt/zero/C Programming/accounts.dat",
+		"/mnt/zero/C Programming/miraj.c",
+		"/mnt/zero/C Programming/sumon.c",
+		"/mnt/zero/C Programming/inventory.txt",
+		"/mnt/zero/C Programming/project.c",
+		"/home/zer0/Downloads/esp8266_Wi_Fi_hotspot.ino",
+		"/mnt/zero/C Programming/arif-2.c",
+		"/mnt/zero/C Programming/employee_data.txt",
+		"/mnt/zero/C Programming/000.txt",
+		"/mnt/zero/C Programming/D:\\project10092.txt",
+		"/mnt/zero/C Programming/D:\\project10091.txt",
+		"/mnt/zero/C Programming/monisha.c",
+		"/mnt/zero/C Programming/seats.txt",
+		"/mnt/zero/C Programming/tonmoy-chatGpt.c",
+		"/mnt/zero/C Programming/tonmoy.c",
+		"/mnt/zero/C Programming/tonmoy_temp.c",
+		"/mnt/zero/C Programming/test.c",
+		"/mnt/zero/C Programming/students.txt",
+		"/mnt/zero/C Programming/arif.c",
+		"/mnt/MEDIA/test/payload.py",
+		"/home/zer0/Downloads/Assignment 3/test.cpp",
+		"/home/zer0/Downloads/Assignment 3/main.cpp",
+		"/home/zer0/AlexPy into AI Metaverse 🚀.txt",
+		"/home/zer0/.config/openbox/polybar/default/config.ini",
+		"/home/zer0/Downloads/Assignment",
+		"/home/zer0/3",
+		"/home/zer0/.config/openbox/autostart",
+		"/home/zer0/.config/openbox/polybar/default/launch.sh",
+		"/home/zer0/.config/bspwm/polybar/config",
+		"/home/zer0/.config/openbox/polybar/adaptive/config.ini",
+		"/mnt/zero/C Programming/stuc_test.c",
+		"/home/zer0/payload.py",
+		"/home/zer0/pretend you a researcher expert",
+		"/mnt/zero/C Programming/nameLen.c",
+		"/home/zer0/Downloads/find_length_of_name.c",
+		"/home/zer0/.config/polybar/config",
+		"/mnt/zero/C Programming/string.c",
+		"/mnt/MEDIA/test/FB_Automation/.env",
+		"/mnt/MEDIA/test/FB_Automation/fb_group_automation.py",
+		"/mnt/MEDIA/test/FB_Automation/API.py",
+		"/mnt/MEDIA/test/FB_Automation/test.js",
+		"/home/zer0/Static-IP-Automation/main.py",
+		"/home/zer0/date.py",
+		"/mnt/MEDIA/test/FB_Automation/old.py",
+		"/mnt/zero/short-url-inc-scam.py",
+		"/home/zer0/.chatgpt/main.js",
+		"/mnt/zero/C Programming/hw.cpp",
+		"/mnt/zero/CSE-Fundamentals-With-Phitron/intra-phitron-programming-contest-september-2022/reverse.cpp",
+		"/home/zer0/Downloads/SamiulHoque_A1/test/task4.cpp",
+		"/home/zer0/Downloads/SamiulHoque_A1/main.cpp",
+		"/home/zer0/Downloads/SamiulHoque_A1/test/task6.cpp",
+		"/mnt/zero/CSE-Fundamentals-With-Phitron/Course 3 - Basic Data Structures and Problem Solving Part-II/practice/practice.cpp",
+		"/mnt/zero/CSE-Fundamentals-With-Phitron/intra-phitron-programming-contest-september-2022/plus-minus.cpp",
+		"/mnt/zero/CSE-Fundamentals-With-Phitron/Course 3 - Basic Data Structures and Problem Solving Part-II/Module 11 - sorting/bubble_sort.cpp",
+		"/home/zer0/Downloads/SamiulHoque_A1/About.txt",
+		"/home/zer0/.config/ranger/rc.conf",
+		"/etc/dunst/dunstrc",
+		"/home/zer0/.config/ranger/scope.sh",
+		"/home/zer0/lf-ueberzug/lfrc-ueberzug",
+		"/home/zer0/bin/cls",
+		"/home/zer0/bin/auto-py-to-exe",
+		"/etc/modprobe.d/blacklist.conf",
+		"/home/zer0/.config/openbox/polybar/default/modules.ini",
+		"/home/zer0/bin/chgpt",
+		"/home/zer0/.config/openbox/rofi/bin/powermenu",
+		"/.config/openbox/polybar/default",
+		"/home/zer0/hibernator/hibernator",
+		"/etc/mkinitcpio.conf",
+		"/home/zer0/.local/share/nautilus/scripts/OpenSubtitlesDownload.py",
+		"/home/zer0/lf-ueberzug/README.md",
+		"/usr/local/bin/screenrecorder",
+		"/home/zer0/bin/mic-toggle.sh",
+		"/mnt/zero/C Programming/test.py",
+		"/home/zer0/.config/sublime-text/Packages/C++/C Single File.sublime-build"
+	],
+	"folder_history":
+	[
+		"/mnt/zero/java-course-apne-college",
+		"/mnt/zero/youtube-embed-viewer",
+		"/mnt/zero/C Programming",
+		"/home/zer0/lab",
+		"/mnt/zero/TCA-app-script",
+		"/home/zer0/Downloads/Assignment 3",
+		"/mnt/MEDIA/test/FB_Automation",
+		"/home/zer0/Downloads/SamiulHoque_A1",
+		"/mnt/zero/project_openai_codex",
+		"/home/zer0/Keylogger",
+		"/mnt/zero/Sharif_Automation",
+		"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop",
+		"/mnt/zero/National Hackathon For Cyber Security - FinTech Industry/personal-finance-tracker",
+		"/mnt/other/DIU/Computer Fundamentals/C Programing/Problem Solving/Conditional Statement",
+		"/home/zer0",
+		"/mnt/other/DIU/Computer Fundamentals",
+		"/home/zer0/.config/openbox/scripts",
+		"/home/zer0/df-youtube-react",
+		"/mnt/zero/react-chat",
+		"/mnt/other/DIU/Computer Fundamentals/C Programing/Problem Solving/21 Practice Problem Solving",
+		"/run/media/zer0/zero/CSE-Fundamentals-With-Phitron",
+		"/run/media/zer0/other/DIU/Computer Fundamentals",
+		"/run/media/zer0/zero/LCO-Next.JS",
+		"/run/media/zer0/other/DIU/Computer Fundamentals/C Programing/Problem Solving/21 Practice Problem Solving",
+		"/run/media/zer0/zero/ITM 6 Batch/CF/C",
+		"/etc/X11/xorg.conf.d",
+		"/home/zer0/Desktop/card-validity-checker",
+		"/home/zer0/Desktop/df-youtube-react",
+		"/home/zer0/Desktop/auto code type",
+		"/home/zer0/Desktop/ThreeJS_Sample_Project",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/apps-script-use-with-python",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/df-youtube-react",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/df-youtube-react-pwa",
+		"/home/zer0/Downloads/probJS",
+		"/home/zer0/Desktop/vite-pwa",
+		"/home/zer0/Desktop/vite-pwa-boilerplate",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/react-vite-pwa",
+		"/run/media/zer0/Arif/Running WorkFlow/0_LINUX/test",
+		"/home/zer0/Desktop/react-router",
+		"/home/zer0/Desktop/DF-YouTube",
+		"/home/zer0/Desktop/react-chat",
+		"/home/zer0/Desktop/realtime-chat-app",
+		"/home/zer0/Desktop/chrome-extensions-samples",
+		"/home/zer0/Desktop/dark-extension",
+		"/run/media/zer0/Arif/Running WorkFlow/samftp-anime-webapp",
+		"/run/media/zer0/Arif/Running WorkFlow/JavaScript/ReactJS/react-entertainment-hub/v2",
+		"/run/media/zer0/Arif/Running WorkFlow/JavaScript/ReactJS/react-entertainment-hub/v2/src/assets",
+		"/home/zer0/Desktop/samftp-anime-webapp",
+		"/home/zer0/Desktop/vite-react-tailwind",
+		"/home/zer0/Desktop/SublimeTextTrans-1.4.0",
+		"/home/zer0/Desktop/pup",
+		"/home/zer0/Desktop/scrap-to-sheet",
+		"/home/zer0/Desktop/vite-js",
+		"/home/zer0/Desktop/flutter_app",
+		"/home/zer0/Desktop/workFlow"
+	],
+	"last_version": 4143,
+	"last_window_id": 195,
+	"log_indexing": false,
+	"next_update_check": 1687873415,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 600.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			10.0,
+			84.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"fore\tfor (each)"
+					],
+					[
+						"Ma",
+						"main"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"e",
+						"else"
+					],
+					[
+						"pla",
+						"Player"
+					],
+					[
+						"rando",
+						"random_num"
+					],
+					[
+						"ran",
+						"random"
+					],
+					[
+						"sl",
+						"sleep"
+					],
+					[
+						"pa",
+						"payload"
+					],
+					[
+						"tr",
+						"True"
+					],
+					[
+						"na",
+						"namespace"
+					],
+					[
+						"iso",
+						"iostream>"
+					],
+					[
+						"ra",
+						"range"
+					],
+					[
+						"l",
+						"lvu"
+					],
+					[
+						"inp",
+						"input"
+					],
+					[
+						"nu",
+						"nums"
+					],
+					[
+						"s",
+						"sudentID"
+					],
+					[
+						"st",
+						"sudentHeight"
+					],
+					[
+						"prin",
+						"printf\tprintf …"
+					],
+					[
+						"se",
+						"server_link"
+					],
+					[
+						"P",
+						"png"
+					],
+					[
+						"pya",
+						"pyautogui"
+					],
+					[
+						"time",
+						"time_t"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"stl",
+						"stdlib.h>"
+					],
+					[
+						"stdi",
+						"stdio.h"
+					],
+					[
+						"in",
+						"inc\t#include <…>"
+					],
+					[
+						"el",
+						"else if"
+					],
+					[
+						"els",
+						"else if"
+					],
+					[
+						"oper",
+						"Operator"
+					],
+					[
+						"cons",
+						"const"
+					],
+					[
+						"cosn",
+						"const"
+					],
+					[
+						"by",
+						"getSheetByName"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"byna",
+						"getSheetByName"
+					],
+					[
+						"get",
+						"getId"
+					],
+					[
+						"name",
+						"getName"
+					],
+					[
+						"op",
+						"openById"
+					],
+					[
+						"nc",
+						"ncurses.h>"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"co",
+						"course_num"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"inclu",
+						"include"
+					],
+					[
+						"num",
+						"num2"
+					],
+					[
+						"n",
+						"num2"
+					],
+					[
+						"max",
+						"aria-valuemax?"
+					],
+					[
+						"null",
+						"NULL"
+					],
+					[
+						"Null",
+						"NULL"
+					],
+					[
+						"cou",
+						"cout"
+					],
+					[
+						"a",
+						"arr2"
+					],
+					[
+						"inde",
+						"index_match"
+					],
+					[
+						"sea",
+						"search_val"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"ord",
+						"order-2"
+					],
+					[
+						"c",
+						"className"
+					],
+					[
+						"or",
+						"order-10 "
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"pad",
+						"padding-right"
+					],
+					[
+						"fl",
+						"inline-flex"
+					],
+					[
+						"id",
+						"idList"
+					],
+					[
+						"is",
+						"is_dataFound"
+					],
+					[
+						"f",
+						"from"
+					],
+					[
+						"vi",
+						"video"
+					],
+					[
+						"t",
+						"type"
+					],
+					[
+						"fe",
+						"fetch"
+					],
+					[
+						"idl",
+						"setIdList"
+					],
+					[
+						"cl",
+						"className"
+					],
+					[
+						"set",
+						"setIdList"
+					],
+					[
+						"lo",
+						"localList"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"ad",
+						"addToFavorit"
+					],
+					[
+						"src",
+						"source"
+					],
+					[
+						"anim",
+						"anime_list"
+					],
+					[
+						"ele",
+						"elem"
+					],
+					[
+						"ea",
+						"each"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"imp",
+						"import"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c++_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/terminus_javaC_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_javaC_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/terminus_python_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c++_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/terminus_python_build.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"disble",
+						"Package Control: Disable Package"
+					],
+					[
+						"enable",
+						"Color Highlight: Enable Color Highlighting"
+					],
+					[
+						"disable",
+						"Color Highlight: Disable Color Highlighting"
+					],
+					[
+						"disa",
+						"LSP: Disable Language Server in Project"
+					],
+					[
+						"lsp",
+						"Preferences: LSP Settings"
+					],
+					[
+						"jdtls",
+						"Preferences: LSP-jdtls Settings"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remop",
+						"Package Control: Remove Package"
+					],
+					[
+						"buildview",
+						"Disable/Enable buildview for this window"
+					],
+					[
+						"Package Control: Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"vp",
+						"View Package File"
+					],
+					[
+						"manage",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"word",
+						"LaTeXWordCount: Word Count"
+					],
+					[
+						"conf",
+						"Set Syntax: Git Config"
+					],
+					[
+						"Splunk Conf F",
+						"Set Syntax: Splunk Conf file"
+					],
+					[
+						"colo",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color",
+						"Color Highlight: Color Highlight Current File"
+					],
+					[
+						"remp",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"vpf",
+						"View Package File"
+					],
+					[
+						"cpf",
+						"Package Control: Create Package File"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"ter",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"term",
+						"Terminus: Close All"
+					],
+					[
+						"teminu",
+						"Preferences: Terminus Key Bindings"
+					],
+					[
+						"vps",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"lsp pre",
+						"Preferences: LSP Settings"
+					],
+					[
+						"for",
+						"JsPrettier: Format Code"
+					],
+					[
+						"jspre",
+						"Preferences: JsPrettier Settings - Side-by-Side"
+					],
+					[
+						"te",
+						"Terminus: Close All"
+					],
+					[
+						"t",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"discord",
+						"Preferences: Discord Rich Presence Settings"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Discover Packages"
+					],
+					[
+						"clos",
+						"Terminus: Close All"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"discor",
+						"Package Control: Discover Packages"
+					],
+					[
+						"js",
+						"Preferences: JsPrettier Settings - Side-by-Side"
+					],
+					[
+						"jsp",
+						"Preferences: JsPrettier Settings - Default"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 380.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/zer0/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/mnt/zero/java-course-apne-college/Main.java",
+				"/mnt/zero/youtube-embed-viewer/background.js",
+				"/mnt/zero/java-course-apne-college/HelloWorld.java",
+				"/mnt/zero/java-course-apne-college/hw.c",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_javaC_build.sublime-build",
+				"/mnt/zero/java-course-apne-college/hello_world.java",
+				"/home/zer0/.config/sublime-text/Packages/Java/JavaC.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_c_build.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_python_build.sublime-build",
+				"/mnt/zero/java-course-apne-college/HelloWorld.class",
+				"/mnt/zero/youtube-embed-viewer/popup.js",
+				"/mnt/zero/youtube-embed-viewer/manifest.json",
+				"/mnt/zero/youtube-embed-viewer/popup.html",
+				"/mnt/zero/C Programming/Final/grades.txt",
+				"/mnt/zero/C Programming/Final/numbers.txt",
+				"/home/zer0/.config/sublime-text/Packages/User/Terminus.sublime-settings",
+				"/home/zer0/.config/alacritty/fonts.yml",
+				"/home/zer0/.ssh/config",
+				"/home/zer0/.zshrc",
+				"/home/zer0/.tmux.conf",
+				"/home/zer0/.tmux/plugins/tmux-power/tmux-power.tmux",
+				"/home/zer0/.tmux.conf.local",
+				"/home/zer0/lab/1.c",
+				"/home/zer0/lab/2.c",
+				"/home/zer0/lab/3.c",
+				"/home/zer0/lab/4.c",
+				"/home/zer0/.ssh/authorized_keys",
+				"/home/zer0/.local/bin/diskClear_ramClear",
+				"/mnt/zero/C Programming/accounts.txt",
+				"/mnt/zero/C Programming/diuBank.c",
+				"/mnt/zero/TCA-app-script/accounts.txt",
+				"/home/zer0/Downloads/arif.c",
+				"/mnt/zero/C Programming/accounts.dat",
+				"/mnt/zero/C Programming/miraj.c",
+				"/mnt/zero/C Programming/sumon.c",
+				"/mnt/zero/C Programming/inventory.txt",
+				"/mnt/zero/C Programming/project.c",
+				"/home/zer0/Downloads/esp8266_Wi_Fi_hotspot.ino",
+				"/mnt/zero/C Programming/arif-2.c",
+				"/mnt/zero/C Programming/employee_data.txt",
+				"/mnt/zero/C Programming/000.txt",
+				"/mnt/zero/C Programming/D:\\project10092.txt",
+				"/mnt/zero/C Programming/D:\\project10091.txt",
+				"/mnt/zero/C Programming/monisha.c",
+				"/mnt/zero/C Programming/seats.txt",
+				"/mnt/zero/C Programming/tonmoy-chatGpt.c",
+				"/mnt/zero/C Programming/tonmoy.c",
+				"/mnt/zero/C Programming/tonmoy_temp.c",
+				"/mnt/zero/C Programming/test.c",
+				"/mnt/zero/C Programming/students.txt",
+				"/mnt/zero/C Programming/arif.c",
+				"/mnt/MEDIA/test/payload.py",
+				"/home/zer0/.config/openbox/autostart",
+				"/home/zer0/.config/openbox/polybar/default/launch.sh",
+				"/home/zer0/.config/bspwm/polybar/config",
+				"/home/zer0/.config/openbox/polybar/adaptive/config.ini",
+				"/home/zer0/payload.py",
+				"/home/zer0/pretend you a researcher expert",
+				"/home/zer0/.config/polybar/config",
+				"/mnt/MEDIA/test/FB_Automation/.env",
+				"/mnt/MEDIA/test/FB_Automation/fb_group_automation.py",
+				"/mnt/MEDIA/test/FB_Automation/API.py",
+				"/mnt/MEDIA/test/FB_Automation/test.js",
+				"/home/zer0/Static-IP-Automation/main.py",
+				"/home/zer0/date.py",
+				"/mnt/MEDIA/test/FB_Automation/old.py",
+				"/mnt/zero/short-url-inc-scam.py",
+				"/home/zer0/.chatgpt/main.js",
+				"/mnt/zero/C Programming/hw.cpp",
+				"/mnt/zero/CSE-Fundamentals-With-Phitron/intra-phitron-programming-contest-september-2022/reverse.cpp",
+				"/home/zer0/.config/ranger/rc.conf",
+				"/etc/dunst/dunstrc",
+				"/home/zer0/.config/ranger/scope.sh",
+				"/home/zer0/lf-ueberzug/lfrc-ueberzug",
+				"/home/zer0/bin/cls",
+				"/home/zer0/bin/auto-py-to-exe",
+				"/etc/modprobe.d/blacklist.conf",
+				"/home/zer0/.config/openbox/polybar/default/modules.ini",
+				"/home/zer0/bin/chgpt",
+				"/home/zer0/.config/openbox/rofi/bin/powermenu",
+				"/home/zer0/.config/openbox/polybar/default/config.ini",
+				"/.config/openbox/polybar/default",
+				"/home/zer0/hibernator/hibernator",
+				"/etc/mkinitcpio.conf",
+				"/home/zer0/.local/share/nautilus/scripts/OpenSubtitlesDownload.py",
+				"/home/zer0/lf-ueberzug/README.md",
+				"/usr/local/bin/screenrecorder",
+				"/home/zer0/bin/mic-toggle.sh",
+				"/mnt/zero/C Programming/test.py",
+				"/home/zer0/.config/sublime-text/Packages/C++/C Single File.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/Python/Python.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/Python/Python.sublime-syntax",
+				"/home/zer0/.config/sublime-text/Packages/Python.sublime-package",
+				"/home/zer0/.local/bin/chgpt",
+				"/home/zer0/.local/bin/cgpt",
+				"/home/zer0/.local/bin/cgpt.py",
+				"/home/zer0/.chatgpt/notes/wfofca.md",
+				"/mnt/zero/project_openai_codex/server/.env",
+				"/mnt/other/vms/windows-10/windows-10.sh",
+				"/home/zer0/Keylogger/requirements.txt",
+				"/home/zer0/Keylogger/Pipfile",
+				"/home/zer0/Keylogger/keylogger.py",
+				"/mnt/zero/C Programming/preprocessor.c",
+				"/mnt/zero/C Programming/info.h",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/test.c",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/lesson_monisha.c",
+				"/home/zer0/Hatkey/HatKey.py",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/keylog.cpp",
+				"/home/zer0/.config/ranger/rifle.conf",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/keylog.cc",
+				"/home/zer0/Downloads/xrdp-installer-1.4.3.sh",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/1.c",
+				"/mnt/other/DIU/Business English - ENG 102/1st quize topics.txt",
+				"/mnt/other/Downloads/Music/spotify/The Search/downloaded_songs.txt",
+				"/mnt/other/yt.txt",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/5.c",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/4.c",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/3.c",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/2.c",
+				"/mnt/other/Downloads/Classroom of the Elite (TV Cartoon 2017– ) 1080p [Dual Audio]/season-2/[DB]Classroom of the Elite 2nd_-_13_(Dual Audio_10bit_1080p_x265).nfo",
+				"/home/zer0/cc.c",
+				"/home/zer0/c.c",
+				"/mnt/other/DIU/Computer Fundamentals/C Programing/Problem Solving/Conditional Statement/test.c",
+				"/mnt/zero/TCA-app-script/test.js",
+				"/home/zer0/.config/openbox/rc.xml",
+				"/home/zer0/.config/openbox/polybar/default/decor.ini",
+				"/home/zer0/.config/openbox/polybar/default/colors.ini"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 139.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 84.0
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.Terminus":
+			{
+				"height": 235.0
+			},
+			"output.Terminus Build Results":
+			{
+				"height": 252.0
+			},
+			"output.diagnostics":
+			{
+				"height": 138.0
+			},
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.language servers":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"paymentReciptMailSent",
+						"Payment_Recipt_Mail_Sent.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 208.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 800.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"for",
+						"fore\tfor (each)"
+					],
+					[
+						"Ma",
+						"main"
+					],
+					[
+						"sy",
+						"System"
+					],
+					[
+						"pu",
+						"public"
+					],
+					[
+						"sys",
+						"system"
+					],
+					[
+						"e",
+						"else"
+					],
+					[
+						"pla",
+						"Player"
+					],
+					[
+						"rando",
+						"random_num"
+					],
+					[
+						"ran",
+						"random"
+					],
+					[
+						"sl",
+						"sleep"
+					],
+					[
+						"pa",
+						"payload"
+					],
+					[
+						"tr",
+						"True"
+					],
+					[
+						"na",
+						"namespace"
+					],
+					[
+						"iso",
+						"iostream>"
+					],
+					[
+						"ra",
+						"range"
+					],
+					[
+						"l",
+						"lvu"
+					],
+					[
+						"inp",
+						"input"
+					],
+					[
+						"nu",
+						"nums"
+					],
+					[
+						"s",
+						"sudentID"
+					],
+					[
+						"st",
+						"sudentHeight"
+					],
+					[
+						"prin",
+						"printf\tprintf …"
+					],
+					[
+						"se",
+						"server_link"
+					],
+					[
+						"P",
+						"png"
+					],
+					[
+						"pya",
+						"pyautogui"
+					],
+					[
+						"time",
+						"time_t"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"stl",
+						"stdlib.h>"
+					],
+					[
+						"stdi",
+						"stdio.h"
+					],
+					[
+						"in",
+						"inc\t#include <…>"
+					],
+					[
+						"el",
+						"else if"
+					],
+					[
+						"els",
+						"else if"
+					],
+					[
+						"oper",
+						"Operator"
+					],
+					[
+						"cons",
+						"const"
+					],
+					[
+						"cosn",
+						"const"
+					],
+					[
+						"by",
+						"getSheetByName"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"byna",
+						"getSheetByName"
+					],
+					[
+						"get",
+						"getId"
+					],
+					[
+						"name",
+						"getName"
+					],
+					[
+						"op",
+						"openById"
+					],
+					[
+						"nc",
+						"ncurses.h>"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"co",
+						"course_num"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"inclu",
+						"include"
+					],
+					[
+						"num",
+						"num2"
+					],
+					[
+						"n",
+						"num2"
+					],
+					[
+						"max",
+						"aria-valuemax?"
+					],
+					[
+						"null",
+						"NULL"
+					],
+					[
+						"Null",
+						"NULL"
+					],
+					[
+						"cou",
+						"cout"
+					],
+					[
+						"a",
+						"arr2"
+					],
+					[
+						"inde",
+						"index_match"
+					],
+					[
+						"sea",
+						"search_val"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"ord",
+						"order-2"
+					],
+					[
+						"c",
+						"className"
+					],
+					[
+						"or",
+						"order-10 "
+					],
+					[
+						"con",
+						"console"
+					],
+					[
+						"al",
+						"align-items"
+					],
+					[
+						"pad",
+						"padding-right"
+					],
+					[
+						"fl",
+						"inline-flex"
+					],
+					[
+						"id",
+						"idList"
+					],
+					[
+						"is",
+						"is_dataFound"
+					],
+					[
+						"f",
+						"from"
+					],
+					[
+						"vi",
+						"video"
+					],
+					[
+						"t",
+						"type"
+					],
+					[
+						"fe",
+						"fetch"
+					],
+					[
+						"idl",
+						"setIdList"
+					],
+					[
+						"cl",
+						"className"
+					],
+					[
+						"set",
+						"setIdList"
+					],
+					[
+						"lo",
+						"localList"
+					],
+					[
+						"bac",
+						"background-color"
+					],
+					[
+						"ali",
+						"align-items"
+					],
+					[
+						"ad",
+						"addToFavorit"
+					],
+					[
+						"src",
+						"source"
+					],
+					[
+						"anim",
+						"anime_list"
+					],
+					[
+						"ele",
+						"elem"
+					],
+					[
+						"ea",
+						"each"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"imp",
+						"import"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "class Main {\n    public static void main(String[] args) {\n        \n\n    }\n}",
+					"file": "/mnt/zero/java-course-apne-college/Main.java",
+					"file_size": 95,
+					"file_write_time": 133323112782731467,
+					"settings":
+					{
+						"buffer_size": 75,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "`"
+							},
+							"AQAAAF8AAAAAAAAAYAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAAAAAAAAAF8AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"left_delete",
+							null,
+							"AQAAAF8AAAAAAAAAXwAAAAAAAAABAAAAYA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							6,
+							"delete_word",
+							{
+								"forward": false
+							},
+							"BgAAAFQAAAAAAAAAVAAAAAAAAAACAAAAIjtQAAAAAAAAAFAAAAAAAAAABAAAAHNhZGFPAAAAAAAAAE8AAAAAAAAAAQAAACJNAAAAAAAAAE0AAAAAAAAAAgAAAD0gSQAAAAAAAABJAAAAAAAAAAQAAABzdHIgQgAAAAAAAABCAAAAAAAAAAcAAABTdHJpbmcg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWAAAAAAAAAFYAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "sca"
+							},
+							"AwAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							10,
+							3,
+							"left_delete",
+							null,
+							"AwAAAEQAAAAAAAAARAAAAAAAAAABAAAAYUMAAAAAAAAAQwAAAAAAAAABAAAAY0IAAAAAAAAAQgAAAAAAAAABAAAAcw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABFAAAAAAAAAEUAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "sc"
+							},
+							"AgAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							2,
+							"left_delete",
+							null,
+							"AgAAAEMAAAAAAAAAQwAAAAAAAAABAAAAY0IAAAAAAAAAQgAAAAAAAAABAAAAcw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAAAAAAAAAEQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "Scanne"
+							},
+							"BgAAAEIAAAAAAAAAQwAAAAAAAAAAAAAAQwAAAAAAAABEAAAAAAAAAAAAAABEAAAAAAAAAEUAAAAAAAAAAAAAAEUAAAAAAAAARgAAAAAAAAAAAAAARgAAAAAAAABHAAAAAAAAAAAAAABHAAAAAAAAAEgAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "r"
+							},
+							"AQAAAEgAAAAAAAAASQAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABIAAAAAAAAAEgAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAEkAAAAAAAAASgAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJAAAAAAAAAEkAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							16,
+							8,
+							"left_delete",
+							null,
+							"CAAAAEkAAAAAAAAASQAAAAAAAAABAAAAIEgAAAAAAAAASAAAAAAAAAABAAAAckcAAAAAAAAARwAAAAAAAAABAAAAZUYAAAAAAAAARgAAAAAAAAABAAAAbkUAAAAAAAAARQAAAAAAAAABAAAAbkQAAAAAAAAARAAAAAAAAAABAAAAYUMAAAAAAAAAQwAAAAAAAAABAAAAY0IAAAAAAAAAQgAAAAAAAAABAAAAUw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABKAAAAAAAAAEoAAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c++_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/terminus_javaC_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_javaC_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_javaC_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/terminus_python_build.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c++_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c++_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_c_build.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/terminus_c_build.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							""
+						],
+						[
+							"Packages/User/terminus_python_build.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/User/terminus_python_build.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"disble",
+						"Package Control: Disable Package"
+					],
+					[
+						"enable",
+						"Color Highlight: Enable Color Highlighting"
+					],
+					[
+						"disable",
+						"Color Highlight: Disable Color Highlighting"
+					],
+					[
+						"disa",
+						"LSP: Disable Language Server in Project"
+					],
+					[
+						"lsp",
+						"Preferences: LSP Settings"
+					],
+					[
+						"jdtls",
+						"Preferences: LSP-jdtls Settings"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remop",
+						"Package Control: Remove Package"
+					],
+					[
+						"buildview",
+						"Disable/Enable buildview for this window"
+					],
+					[
+						"Package Control: Install Package",
+						"Package Control: Install Package"
+					],
+					[
+						"vp",
+						"View Package File"
+					],
+					[
+						"manage",
+						"Package Control: List Unmanaged Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"word",
+						"LaTeXWordCount: Word Count"
+					],
+					[
+						"conf",
+						"Set Syntax: Git Config"
+					],
+					[
+						"Splunk Conf F",
+						"Set Syntax: Splunk Conf file"
+					],
+					[
+						"colo",
+						"Colorsublime: Install Theme"
+					],
+					[
+						"color",
+						"Color Highlight: Color Highlight Current File"
+					],
+					[
+						"remp",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"ena",
+						"Package Control: Enable Package"
+					],
+					[
+						"vpf",
+						"View Package File"
+					],
+					[
+						"cpf",
+						"Package Control: Create Package File"
+					],
+					[
+						"build",
+						"Build: New Build System"
+					],
+					[
+						"ter",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"term",
+						"Terminus: Close All"
+					],
+					[
+						"teminu",
+						"Preferences: Terminus Key Bindings"
+					],
+					[
+						"vps",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"lsp pre",
+						"Preferences: LSP Settings"
+					],
+					[
+						"for",
+						"JsPrettier: Format Code"
+					],
+					[
+						"jspre",
+						"Preferences: JsPrettier Settings - Side-by-Side"
+					],
+					[
+						"te",
+						"Terminus: Close All"
+					],
+					[
+						"t",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Package Control Settings"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"discord",
+						"Preferences: Discord Rich Presence Settings"
+					],
+					[
+						"disabl",
+						"Package Control: Disable Package"
+					],
+					[
+						"dis",
+						"Package Control: Discover Packages"
+					],
+					[
+						"clos",
+						"Terminus: Close All"
+					],
+					[
+						"terminus",
+						"Preferences: Terminus Settings"
+					],
+					[
+						"remove ",
+						"Package Control: Remove Package"
+					],
+					[
+						"discor",
+						"Package Control: Discover Packages"
+					],
+					[
+						"js",
+						"Preferences: JsPrettier Settings - Side-by-Side"
+					],
+					[
+						"jsp",
+						"Preferences: JsPrettier Settings - Default"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 380.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/mnt/zero/java-course-apne-college"
+			],
+			"file_history":
+			[
+				"/home/zer0/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/mnt/zero/java-course-apne-college/Main.java",
+				"/mnt/zero/youtube-embed-viewer/background.js",
+				"/mnt/zero/java-course-apne-college/HelloWorld.java",
+				"/mnt/zero/java-course-apne-college/hw.c",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_javaC_build.sublime-build",
+				"/mnt/zero/java-course-apne-college/hello_world.java",
+				"/home/zer0/.config/sublime-text/Packages/Java/JavaC.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_c_build.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/User/terminus_python_build.sublime-build",
+				"/mnt/zero/java-course-apne-college/HelloWorld.class",
+				"/mnt/zero/youtube-embed-viewer/popup.js",
+				"/mnt/zero/youtube-embed-viewer/manifest.json",
+				"/mnt/zero/youtube-embed-viewer/popup.html",
+				"/mnt/zero/C Programming/Final/grades.txt",
+				"/mnt/zero/C Programming/Final/numbers.txt",
+				"/home/zer0/.config/sublime-text/Packages/User/Terminus.sublime-settings",
+				"/home/zer0/.config/alacritty/fonts.yml",
+				"/home/zer0/.ssh/config",
+				"/home/zer0/.zshrc",
+				"/home/zer0/.tmux.conf",
+				"/home/zer0/.tmux/plugins/tmux-power/tmux-power.tmux",
+				"/home/zer0/.tmux.conf.local",
+				"/home/zer0/lab/1.c",
+				"/home/zer0/lab/2.c",
+				"/home/zer0/lab/3.c",
+				"/home/zer0/lab/4.c",
+				"/home/zer0/.ssh/authorized_keys",
+				"/home/zer0/.local/bin/diskClear_ramClear",
+				"/mnt/zero/C Programming/accounts.txt",
+				"/mnt/zero/C Programming/diuBank.c",
+				"/mnt/zero/TCA-app-script/accounts.txt",
+				"/home/zer0/Downloads/arif.c",
+				"/mnt/zero/C Programming/accounts.dat",
+				"/mnt/zero/C Programming/miraj.c",
+				"/mnt/zero/C Programming/sumon.c",
+				"/mnt/zero/C Programming/inventory.txt",
+				"/mnt/zero/C Programming/project.c",
+				"/home/zer0/Downloads/esp8266_Wi_Fi_hotspot.ino",
+				"/mnt/zero/C Programming/arif-2.c",
+				"/mnt/zero/C Programming/employee_data.txt",
+				"/mnt/zero/C Programming/000.txt",
+				"/mnt/zero/C Programming/D:\\project10092.txt",
+				"/mnt/zero/C Programming/D:\\project10091.txt",
+				"/mnt/zero/C Programming/monisha.c",
+				"/mnt/zero/C Programming/seats.txt",
+				"/mnt/zero/C Programming/tonmoy-chatGpt.c",
+				"/mnt/zero/C Programming/tonmoy.c",
+				"/mnt/zero/C Programming/tonmoy_temp.c",
+				"/mnt/zero/C Programming/test.c",
+				"/mnt/zero/C Programming/students.txt",
+				"/mnt/zero/C Programming/arif.c",
+				"/mnt/MEDIA/test/payload.py",
+				"/home/zer0/.config/openbox/autostart",
+				"/home/zer0/.config/openbox/polybar/default/launch.sh",
+				"/home/zer0/.config/bspwm/polybar/config",
+				"/home/zer0/.config/openbox/polybar/adaptive/config.ini",
+				"/home/zer0/payload.py",
+				"/home/zer0/pretend you a researcher expert",
+				"/home/zer0/.config/polybar/config",
+				"/mnt/MEDIA/test/FB_Automation/.env",
+				"/mnt/MEDIA/test/FB_Automation/fb_group_automation.py",
+				"/mnt/MEDIA/test/FB_Automation/API.py",
+				"/mnt/MEDIA/test/FB_Automation/test.js",
+				"/home/zer0/Static-IP-Automation/main.py",
+				"/home/zer0/date.py",
+				"/mnt/MEDIA/test/FB_Automation/old.py",
+				"/mnt/zero/short-url-inc-scam.py",
+				"/home/zer0/.chatgpt/main.js",
+				"/mnt/zero/C Programming/hw.cpp",
+				"/mnt/zero/CSE-Fundamentals-With-Phitron/intra-phitron-programming-contest-september-2022/reverse.cpp",
+				"/home/zer0/.config/ranger/rc.conf",
+				"/etc/dunst/dunstrc",
+				"/home/zer0/.config/ranger/scope.sh",
+				"/home/zer0/lf-ueberzug/lfrc-ueberzug",
+				"/home/zer0/bin/cls",
+				"/home/zer0/bin/auto-py-to-exe",
+				"/etc/modprobe.d/blacklist.conf",
+				"/home/zer0/.config/openbox/polybar/default/modules.ini",
+				"/home/zer0/bin/chgpt",
+				"/home/zer0/.config/openbox/rofi/bin/powermenu",
+				"/home/zer0/.config/openbox/polybar/default/config.ini",
+				"/.config/openbox/polybar/default",
+				"/home/zer0/hibernator/hibernator",
+				"/etc/mkinitcpio.conf",
+				"/home/zer0/.local/share/nautilus/scripts/OpenSubtitlesDownload.py",
+				"/home/zer0/lf-ueberzug/README.md",
+				"/usr/local/bin/screenrecorder",
+				"/home/zer0/bin/mic-toggle.sh",
+				"/mnt/zero/C Programming/test.py",
+				"/home/zer0/.config/sublime-text/Packages/C++/C Single File.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/Python/Python.sublime-build",
+				"/home/zer0/.config/sublime-text/Packages/Python/Python.sublime-syntax",
+				"/home/zer0/.config/sublime-text/Packages/Python.sublime-package",
+				"/home/zer0/.local/bin/chgpt",
+				"/home/zer0/.local/bin/cgpt",
+				"/home/zer0/.local/bin/cgpt.py",
+				"/home/zer0/.chatgpt/notes/wfofca.md",
+				"/mnt/zero/project_openai_codex/server/.env",
+				"/mnt/other/vms/windows-10/windows-10.sh",
+				"/home/zer0/Keylogger/requirements.txt",
+				"/home/zer0/Keylogger/Pipfile",
+				"/home/zer0/Keylogger/keylogger.py",
+				"/mnt/zero/C Programming/preprocessor.c",
+				"/mnt/zero/C Programming/info.h",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/test.c",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/lesson_monisha.c",
+				"/home/zer0/Hatkey/HatKey.py",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/keylog.cpp",
+				"/home/zer0/.config/ranger/rifle.conf",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/keylog.cc",
+				"/home/zer0/Downloads/xrdp-installer-1.4.3.sh",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/1.c",
+				"/mnt/other/DIU/Business English - ENG 102/1st quize topics.txt",
+				"/mnt/other/Downloads/Music/spotify/The Search/downloaded_songs.txt",
+				"/mnt/other/yt.txt",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/5.c",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/4.c",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/3.c",
+				"/mnt/other/DIU/Structured Programming/Lab/Loop/For Loop/2.c",
+				"/mnt/other/Downloads/Classroom of the Elite (TV Cartoon 2017– ) 1080p [Dual Audio]/season-2/[DB]Classroom of the Elite 2nd_-_13_(Dual Audio_10bit_1080p_x265).nfo",
+				"/home/zer0/cc.c",
+				"/home/zer0/c.c",
+				"/mnt/other/DIU/Computer Fundamentals/C Programing/Problem Solving/Conditional Statement/test.c",
+				"/mnt/zero/TCA-app-script/test.js",
+				"/home/zer0/.config/openbox/rc.xml",
+				"/home/zer0/.config/openbox/polybar/default/decor.ini",
+				"/home/zer0/.config/openbox/polybar/default/colors.ini"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 139.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/mnt/zero/java-course-apne-college"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/mnt/zero/java-course-apne-college/Main.java",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 75,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										67,
+										67
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												72,
+												73
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												56,
+												57
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"lsp_uri": "file:///mnt/zero/java-course-apne-college/Main.java",
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 84.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.Terminus":
+			{
+				"height": 235.0
+			},
+			"output.Terminus Build Results":
+			{
+				"height": 252.0
+			},
+			"output.diagnostics":
+			{
+				"height": 138.0
+			},
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.language servers":
+			{
+				"height": 0.0
+			},
+			"output.mdpopups":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,10,48,1358,722,1368,768,0",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"paymentReciptMailSent",
+						"Payment_Recipt_Mail_Sent.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 208.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 193,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

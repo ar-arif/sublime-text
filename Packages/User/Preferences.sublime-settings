@@ -1,0 +1,23 @@
+{
+	"caret_extra_width": 2,
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"font_face": "MonoLisa",
+	// "font_face": "Comic Code",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages": [
+		"LSP-jdtls",
+		"Sass",
+		"Tailwind CSS Autocomplete",
+		"Vintage",
+	],
+	// "dart_sdk_path": "/mnt/Arif/FlutterBin/bin/",
+	"theme": "Default Dark.sublime-theme",
+	"word_wrap": true,
+	"update_check": false,
+	"show_full_path": false, //title bar
+	"auto_hide_menu": true,
+	// "auto_hide_tabs": true,
+	// "auto_hide_status_bar": true,
+
+}

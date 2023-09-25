@@ -1,0 +1,11 @@
+{
+	"shell_configs": [
+		{
+			"name": "Git Bash",
+			"cmd": "bash.exe",
+			"env": {},
+			"enable": true,
+			"platforms": ["windows"]
+		}
+	],
+}
